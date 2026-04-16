@@ -1,0 +1,18 @@
+# Python environment
+venv/
+
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Flask session storage
+finance_project/backend/flask_session/
+
+# Local environment variables
+.env
+
+# Editor files
+*.swp
+*.swo
+*.idea/
+.vscode/
